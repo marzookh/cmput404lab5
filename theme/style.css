@@ -1,7 +1,8 @@
 html, body {
-    margin: 0;
+    margin: 20px;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #2f8861;
     color: #ffffff;
   }
